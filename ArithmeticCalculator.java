@@ -61,6 +61,6 @@ public class ArithmeticCalculator {
 		}
 		//otherwise selected operation is invalid 
 		else
-			System.out.println("invalid, select a operation from 1 to 4");
+			System.out.println("invalid, select an operation from 1 to 4");
 	}
 }
